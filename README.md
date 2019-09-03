@@ -1,4 +1,4 @@
-# Strwaberry Data Set
+# Strawberry Data Set
 
 
 Package: strawberry  
