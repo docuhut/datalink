@@ -10,5 +10,4 @@ Depends: R (>= 3.1.0)
 License: GPL (>= 2)
 
 URL: http://www.datadata.link
-
 BugReports: project@docuhut.com
