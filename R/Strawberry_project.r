@@ -1,6 +1,7 @@
 install.packages("devtools")
 install.packages("roxygen2")
-install.packages("Rtools")
+install.packages("Rtools", version="3.5")
+
 
 library(devtools)
 library(roxygen2)
