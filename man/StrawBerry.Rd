@@ -4,7 +4,7 @@
 \name{StrawBerry}
 \alias{StrawBerry}
 \title{Seolhyang data on strawberry}
-\format{An object of class \code{data.frame} with 1000 rows and 5 columns.}
+\format{An object of class \code{data.frame} with 1000 rows and 3 columns.}
 \usage{
 data(StrawBerry)
 }
